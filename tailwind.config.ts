@@ -69,6 +69,12 @@ export default {
 				'gradient-surface': 'var(--gradient-surface)',
 				'gradient-glass': 'var(--gradient-glass)'
 			},
+			boxShadow: {
+				'sm': 'var(--shadow-sm)',
+				'md': 'var(--shadow-md)',
+				'lg': 'var(--shadow-lg)',
+				'glow': 'var(--shadow-glow)'
+			},
 			
 				
 		}

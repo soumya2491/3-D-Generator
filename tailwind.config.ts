@@ -64,6 +64,11 @@ export default {
 				'grid-line': 'hsl(var(--grid-line))',
 				selection: 'hsl(var(--selection))'
 			},
+			backgroundImage: {
+				'gradient-primary': 'var(--gradient-primary)',
+				'gradient-surface': 'var(--gradient-surface)',
+				'gradient-glass': 'var(--gradient-glass)'
+			},
 			
 				
 		}
